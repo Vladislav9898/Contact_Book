@@ -106,25 +106,6 @@ int main()
                 cout << "Error!" << endl;
         }
     }
- //
-//    // Инициализация списка
-//    lst = init_list("Vasya", 89991234122, "vasya@example.com", "Lenin street, 156");
-//
-//    // Добавление эл-та
-//    add_elem(lst, "Ivan", 89990001122, "ivan@example.com", "Lenin street, 1");
-//    add_elem(lst, "Petr", 89996661432, "Petr@example.com", "Lenin street, 10");
-//    add_elem(lst, "Ilya", 89993456722, "Ilya@example.com", "Lenin street, 15");
-//
-//    // Просмотр списка
-//    print_list(lst);
-//
-//    delete_elem(lst, 3);
-//
-//
-//    cout << endl;
-//    cout << endl;
-//
-//    print_list(lst);
 
     return 0;
 }
